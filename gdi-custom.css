@@ -1,0 +1,11 @@
+
+.reveal section.slides-index {
+  display: block;
+}
+  .reveal .slides-index h1 {
+    font-size: 1.5em;
+  }
+  .reveal .slides-index h2 {
+    font-size: 1em;
+    margin-top: 1em;
+  }
